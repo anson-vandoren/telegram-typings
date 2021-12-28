@@ -1,0 +1,20 @@
+{
+  "name": "telegram-typings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "typings": "telegram-typings.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anson-vandoren/telegram-typings.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anson-vandoren/telegram-typings/issues"
+  },
+  "homepage": "https://github.com/anson-vandoren/telegram-typings#readme"
+}
